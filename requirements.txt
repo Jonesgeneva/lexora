@@ -1,0 +1,10 @@
+pytesseract
+pdf2image
+Pillow
+tqdm
+langdetect
+beautifulsoup4
+requests
+python-dotenv
+regex
+pandas
