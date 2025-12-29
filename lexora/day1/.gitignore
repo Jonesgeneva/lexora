@@ -1,7 +1,0 @@
-venv/
-__pycache__/
-.env
-*.log
-data/raw_pdfs/
-data/texts/
-data/embeddings/
