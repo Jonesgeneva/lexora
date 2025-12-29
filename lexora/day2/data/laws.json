@@ -1,0 +1,512 @@
+{
+  "document": "Indian Penal Code",
+  "act_number": "45 of 1860",
+  "date": "6th October, 1860",
+  "sections": [
+    {
+      "section": "1",
+      "title": "Title and extent of operation of the Code",
+      "description": "This Act shall be called the Indian Penal Code, and shall extend to the whole of India except the State of Jammu and Kashmir."
+    },
+    {
+      "section": "2",
+      "title": "Punishment of offences committed within India",
+      "description": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India."
+    },
+    {
+      "section": "3",
+      "title": "Punishment of offences committed beyond, but which by law may be tried within, India",
+      "description": "Any person liable, by any Indian law, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Code for any act committed beyond India in the same manner as if such act had been committed within India."
+    },
+    {
+      "section": "4",
+      "title": "Extension of Code to extra-territorial offences",
+      "description": "The provisions of this Code apply also to any offence committed by: (1) any citizen of India in any place without and beyond India; (2) any person on any ship or aircraft registered in India wherever it may be; (3) any person in any place without and beyond India committing offence targeting a computer resource located in India."
+    },
+    {
+      "section": "5",
+      "title": "Certain laws not to be affected by this Act",
+      "description": "Nothing in this Act shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law."
+    },
+    {
+      "section": "6",
+      "title": "Definitions in the Code to be understood subject to exceptions",
+      "description": "Throughout this Code every definition of an offence, every penal provision, and every illustration shall be understood subject to the exceptions contained in the Chapter entitled 'General Exceptions', though those exceptions are not repeated."
+    },
+    {
+      "section": "7",
+      "title": "Sense of expression once explained",
+      "description": "Every expression which is explained in any part of this Code, is used in every part of this Code in conformity with the explanation."
+    },
+    {
+      "section": "8",
+      "title": "Gender",
+      "description": "The pronoun 'he' and its derivatives are used of any person, whether male or female."
+    },
+    {
+      "section": "9",
+      "title": "Number",
+      "description": "Unless the contrary appears from the context, words importing the singular number include the plural number, and words importing the plural number include the singular number."
+    },
+    {
+      "section": "10",
+      "title": "Man and Woman",
+      "description": "The word 'man' denotes a male human being of any age; the word 'woman' denotes a female human being of any age."
+    },
+    {
+      "section": "11",
+      "title": "Person",
+      "description": "The word 'person' includes any Company or Association or body of persons, whether incorporated or not."
+    },
+    {
+      "section": "12",
+      "title": "Public",
+      "description": "The word 'public' includes any class of the public or any community."
+    },
+    {
+      "section": "14",
+      "title": "Servant of Government",
+      "description": "The words 'servant of Government' denote any officer or servant continued, appointed or employed in India by or under the authority of Government."
+    },
+    {
+      "section": "17",
+      "title": "Government",
+      "description": "The word 'Government' denotes the Central Government or the Government of a State."
+    },
+    {
+      "section": "18",
+      "title": "India",
+      "description": "'India' means the territory of India excluding the State of Jammu and Kashmir."
+    },
+    {
+      "section": "19",
+      "title": "Judge",
+      "description": "The word 'Judge' denotes not only every person who is officially designated as a Judge, but also every person who is empowered by law to give, in any legal proceeding, a definitive judgment."
+    },
+    {
+      "section": "20",
+      "title": "Court of Justice",
+      "description": "The words 'Court of Justice' denote a Judge who is empowered by law to act judicially alone, or a body of Judges which is empowered by law to act judicially as a body, when such Judge or body of Judges is acting judicially."
+    },
+    {
+      "section": "21",
+      "title": "Public servant",
+      "description": "The words 'public servant' denote a person falling under various descriptions including commissioned officers, judges, court officers, jurymen, arbitrators, government officers, and persons in service or pay of the Government or local authority."
+    },
+    {
+      "section": "22",
+      "title": "Movable property",
+      "description": "The words 'movable property' are intended to include corporeal property of every description, except land and things attached to the earth or permanently fastened to anything which is attached to the earth."
+    },
+    {
+      "section": "23",
+      "title": "Wrongful gain and Wrongful loss",
+      "description": "'Wrongful gain' is gain by unlawful means of property to which the person gaining is not legally entitled. 'Wrongful loss' is the loss by unlawful means of property to which the person losing it is legally entitled."
+    },
+    {
+      "section": "24",
+      "title": "Dishonestly",
+      "description": "Whoever does anything with the intention of causing wrongful gain to one person or wrongful loss to another person, is said to do that thing 'dishonestly'."
+    },
+    {
+      "section": "25",
+      "title": "Fraudulently",
+      "description": "A person is said to do a thing fraudulently if he does that thing with intent to defraud but not otherwise."
+    },
+    {
+      "section": "26",
+      "title": "Reason to believe",
+      "description": "A person is said to have 'reason to believe' a thing, if he has sufficient cause to believe that thing but not otherwise."
+    },
+    {
+      "section": "34",
+      "title": "Acts done by several persons in furtherance of common intention",
+      "description": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone."
+    },
+    {
+      "section": "40",
+      "title": "Offence",
+      "description": "The word 'offence' denotes a thing made punishable by this Code, with specific applications in different chapters and sections."
+    },
+    {
+      "section": "53",
+      "title": "Punishments",
+      "description": "The punishments to which offenders are liable under this Code are: Death; Imprisonment for life; Imprisonment (Rigorous or Simple); Forfeiture of property; and Fine."
+    },
+    {
+      "section": "76",
+      "title": "Act done by a person bound, or by mistake of fact believing himself bound, by law",
+      "description": "Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it."
+    },
+    {
+      "section": "77",
+      "title": "Act of Judge when acting judicially",
+      "description": "Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law."
+    },
+    {
+      "section": "79",
+      "title": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+      "description": "Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact in good faith believes himself to be justified by law, in doing it."
+    },
+    {
+      "section": "80",
+      "title": "Accident in doing a lawful act",
+      "description": "Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution."
+    },
+    {
+      "section": "82",
+      "title": "Act of a child under seven years of age",
+      "description": "Nothing is an offence which is done by a child under seven years of age."
+    },
+    {
+      "section": "84",
+      "title": "Act of a person of unsound mind",
+      "description": "Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law."
+    },
+    {
+      "section": "96",
+      "title": "Things done in private defence",
+      "description": "Nothing is an offence which is done in the exercise of the right of private defence."
+    },
+    {
+      "section": "100",
+      "title": "When the right of private defence of the body extends to causing death",
+      "description": "The right of private defence of the body extends to voluntarily causing death when the assault may reasonably cause apprehension of death, grievous hurt, rape, unnatural lust, kidnapping, wrongful confinement, or acid attack."
+    },
+    {
+      "section": "120A",
+      "title": "Definition of criminal conspiracy",
+      "description": "When two or more persons agree to do an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy."
+    },
+    {
+      "section": "120B",
+      "title": "Punishment of criminal conspiracy",
+      "description": "Whoever is a party to a criminal conspiracy shall be punished in the same manner as if he had abetted such offence, or with imprisonment and fine as specified for other conspiracies."
+    },
+    {
+      "section": "121",
+      "title": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+      "description": "Whoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life and shall also be liable to fine."
+    },
+    {
+      "section": "124A",
+      "title": "Sedition",
+      "description": "Whoever brings or attempts to bring into hatred or contempt, or excites or attempts to excite disaffection towards the Government established by law in India shall be punished with imprisonment for life or imprisonment up to three years with or without fine."
+    },
+    {
+      "section": "141",
+      "title": "Unlawful assembly",
+      "description": "An assembly of five or more persons is designated an 'unlawful assembly' if the common object is to overawe by criminal force, resist execution of law, commit mischief, obtain possession of property by force, or compel any person to do illegal acts."
+    },
+    {
+      "section": "147",
+      "title": "Punishment for rioting",
+      "description": "Whoever is guilty of rioting shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+    },
+    {
+      "section": "153A",
+      "title": "Promoting enmity between different groups",
+      "description": "Whoever promotes or attempts to promote disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups shall be punished with imprisonment up to three years, or with fine, or with both."
+    },
+    {
+      "section": "161-165",
+      "title": "Public servant offences",
+      "description": "Sections dealing with public servants taking gratification (Repealed by Prevention of Corruption Act, 1988)."
+    },
+    {
+      "section": "166",
+      "title": "Public servant disobeying law, with intent to cause injury",
+      "description": "Whoever, being a public servant, knowingly disobeys any direction of the law intending to cause injury to any person, shall be punished with simple imprisonment up to one year, or with fine, or with both."
+    },
+    {
+      "section": "191",
+      "title": "Giving false evidence",
+      "description": "Whoever, being legally bound by oath to state the truth, makes any statement which is false, and which he knows or believes to be false or does not believe to be true, is said to give false evidence."
+    },
+    {
+      "section": "193",
+      "title": "Punishment for false evidence",
+      "description": "Whoever intentionally gives false evidence in any stage of a judicial proceeding shall be punished with imprisonment up to seven years and fine; in other cases, imprisonment up to three years and fine."
+    },
+    {
+      "section": "299",
+      "title": "Culpable homicide",
+      "description": "Whoever causes death by doing an act with the intention of causing death, or causing such bodily injury as is likely to cause death, or with knowledge that he is likely to cause death, commits culpable homicide."
+    },
+    {
+      "section": "300",
+      "title": "Murder",
+      "description": "Culpable homicide is murder if the act is done with intention of causing death, or causing such bodily injury as the offender knows to be likely to cause death, or if the act is so imminently dangerous that it must in all probability cause death."
+    },
+    {
+      "section": "302",
+      "title": "Punishment for murder",
+      "description": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine."
+    },
+    {
+      "section": "304",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "description": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life or up to ten years and fine, if done with intention of causing death; or imprisonment up to ten years or fine or both, if done with knowledge likely to cause death."
+    },
+    {
+      "section": "304B",
+      "title": "Dowry death",
+      "description": "Where death of a woman is caused by burns or bodily injury within seven years of marriage and she was subjected to cruelty or harassment for dowry, such death shall be called 'dowry death' and shall be punished with imprisonment for a term not less than seven years but which may extend to imprisonment for life."
+    },
+    {
+      "section": "306",
+      "title": "Abetment of suicide",
+      "description": "If any person commits suicide, whoever abets the commission of such suicide shall be punished with imprisonment up to ten years and shall also be liable to fine."
+    },
+    {
+      "section": "307",
+      "title": "Attempt to murder",
+      "description": "Whoever does any act with such intention or knowledge that if he caused death he would be guilty of murder, shall be punished with imprisonment up to ten years and fine; if hurt is caused, may be punished with imprisonment for life."
+    },
+    {
+      "section": "319",
+      "title": "Hurt",
+      "description": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt."
+    },
+    {
+      "section": "320",
+      "title": "Grievous hurt",
+      "description": "Grievous hurt includes emasculation, permanent privation of sight or hearing, privation of any member or joint, permanent disfiguration, fracture or dislocation of bone or tooth, and any hurt which endangers life or causes severe bodily pain for twenty days or inability to follow ordinary pursuits."
+    },
+    {
+      "section": "323",
+      "title": "Punishment for voluntarily causing hurt",
+      "description": "Whoever voluntarily causes hurt shall be punished with imprisonment up to one year, or with fine up to one thousand rupees, or with both."
+    },
+    {
+      "section": "325",
+      "title": "Punishment for voluntarily causing grievous hurt",
+      "description": "Whoever voluntarily causes grievous hurt shall be punished with imprisonment up to seven years and shall also be liable to fine."
+    },
+    {
+      "section": "326A",
+      "title": "Voluntarily causing grievous hurt by use of acid",
+      "description": "Whoever causes permanent or partial damage or deformity by throwing acid shall be punished with imprisonment not less than ten years but which may extend to imprisonment for life, and with fine."
+    },
+    {
+      "section": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "description": "Whoever assaults or uses criminal force to any woman, intending to outrage her modesty, shall be punished with imprisonment not less than one year but which may extend to five years and shall also be liable to fine."
+    },
+    {
+      "section": "354A",
+      "title": "Sexual harassment",
+      "description": "A man committing physical contact with unwelcome sexual overtures, demand for sexual favours, showing pornography, or making sexually coloured remarks shall be guilty of sexual harassment and punished with rigorous imprisonment up to three years or fine or both."
+    },
+    {
+      "section": "354B",
+      "title": "Assault with intent to disrobe",
+      "description": "Any man who assaults or uses criminal force with intention of disrobing or compelling a woman to be naked shall be punished with imprisonment not less than three years but which may extend to seven years and fine."
+    },
+    {
+      "section": "354C",
+      "title": "Voyeurism",
+      "description": "Any man who watches or captures the image of a woman engaging in a private act shall be punished on first conviction with imprisonment not less than one year up to three years and fine, and on subsequent conviction with imprisonment not less than three years up to seven years and fine."
+    },
+    {
+      "section": "354D",
+      "title": "Stalking",
+      "description": "Any man who follows a woman and contacts her to foster personal interaction despite clear disinterest, or monitors her use of internet/electronic communication, commits stalking and shall be punished on first conviction with imprisonment up to three years and fine."
+    },
+    {
+      "section": "363",
+      "title": "Punishment for kidnapping",
+      "description": "Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment up to seven years and shall also be liable to fine."
+    },
+    {
+      "section": "366",
+      "title": "Kidnapping, abducting or inducing woman to compel her marriage",
+      "description": "Whoever kidnaps or abducts any woman with intent that she may be compelled to marry, or forced or seduced to illicit intercourse, shall be punished with imprisonment up to ten years and fine."
+    },
+    {
+      "section": "370",
+      "title": "Trafficking of person",
+      "description": "Whoever recruits, transports, harbours, transfers, or receives a person for exploitation shall be punished with rigorous imprisonment not less than seven years but which may extend to ten years and fine. Enhanced punishment for trafficking of minors or multiple persons."
+    },
+    {
+      "section": "375",
+      "title": "Rape",
+      "description": "A man is said to commit rape if he penetrates his penis, inserts any object, manipulates any part of the body, or applies his mouth to the vagina, urethra or anus of a woman under circumstances of force, without consent, under fear, deception, intoxication, or if she is under eighteen years of age."
+    },
+    {
+      "section": "376",
+      "title": "Punishment for rape",
+      "description": "Whoever commits rape shall be punished with rigorous imprisonment not less than ten years but which may extend to imprisonment for life and fine. Enhanced punishment for rape by public servants, police officers, management or staff of institutions, or in aggravated circumstances."
+    },
+    {
+      "section": "376A",
+      "title": "Punishment for causing death or persistent vegetative state of victim",
+      "description": "Whoever commits rape and causes death or persistent vegetative state shall be punished with rigorous imprisonment not less than twenty years up to life, or with death."
+    },
+    {
+      "section": "376AB",
+      "title": "Punishment for rape on woman under twelve years",
+      "description": "Whoever commits rape on a woman under twelve years shall be punished with rigorous imprisonment not less than twenty years up to life and fine, or with death."
+    },
+    {
+      "section": "376D",
+      "title": "Gang rape",
+      "description": "Where a woman is raped by one or more persons constituting a group or acting in furtherance of common intention, each shall be punished with rigorous imprisonment not less than twenty years up to life and fine."
+    },
+    {
+      "section": "377",
+      "title": "Unnatural offences",
+      "description": "Whoever voluntarily has carnal intercourse against the order of nature with any man, woman or animal shall be punished with imprisonment for life or imprisonment up to ten years and fine."
+    },
+    {
+      "section": "378",
+      "title": "Theft",
+      "description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft."
+    },
+    {
+      "section": "379",
+      "title": "Punishment for theft",
+      "description": "Whoever commits theft shall be punished with imprisonment up to three years, or with fine, or with both."
+    },
+    {
+      "section": "383",
+      "title": "Extortion",
+      "description": "Whoever intentionally puts any person in fear of injury and thereby dishonestly induces that person to deliver any property or valuable security commits extortion."
+    },
+    {
+      "section": "390",
+      "title": "Robbery",
+      "description": "In all robbery there is either theft or extortion. Theft is robbery if the offender voluntarily causes or attempts to cause death, hurt, or wrongful restraint to commit the theft. Extortion is robbery if the offender is present and puts the person in fear of instant death, hurt or wrongful restraint."
+    },
+    {
+      "section": "392",
+      "title": "Punishment for robbery",
+      "description": "Whoever commits robbery shall be punished with rigorous imprisonment up to ten years and fine; if committed on highway between sunset and sunrise, imprisonment may extend to fourteen years."
+    },
+    {
+      "section": "395",
+      "title": "Punishment for dacoity",
+      "description": "Whoever commits dacoity shall be punished with imprisonment for life or rigorous imprisonment up to ten years and fine."
+    },
+    {
+      "section": "396",
+      "title": "Dacoity with murder",
+      "description": "If any one of five or more persons committing dacoity commits murder, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment up to ten years and fine."
+    },
+    {
+      "section": "403",
+      "title": "Dishonest misappropriation of property",
+      "description": "Whoever dishonestly misappropriates or converts to his own use any movable property shall be punished with imprisonment up to two years, or with fine, or with both."
+    },
+    {
+      "section": "405",
+      "title": "Criminal breach of trust",
+      "description": "Whoever, being entrusted with property, dishonestly misappropriates or converts it to his own use, or uses or disposes of it in violation of any direction of law or legal contract, commits criminal breach of trust."
+    },
+    {
+      "section": "406",
+      "title": "Punishment for criminal breach of trust",
+      "description": "Whoever commits criminal breach of trust shall be punished with imprisonment up to three years, or with fine, or with both."
+    },
+    {
+      "section": "415",
+      "title": "Cheating",
+      "description": "Whoever, by deceiving any person, fraudulently or dishonestly induces that person to deliver any property or to do or omit anything causing damage or harm, is said to cheat."
+    },
+    {
+      "section": "417",
+      "title": "Punishment for cheating",
+      "description": "Whoever cheats shall be punished with imprisonment up to one year, or with fine, or with both."
+    },
+    {
+      "section": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "description": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property shall be punished with imprisonment up to seven years and fine."
+    },
+    {
+      "section": "425",
+      "title": "Mischief",
+      "description": "Whoever with intent to cause wrongful loss or damage to the public or any person, causes destruction of any property or any change in property that destroys or diminishes its value or utility, commits mischief."
+    },
+    {
+      "section": "463",
+      "title": "Forgery",
+      "description": "Whoever makes any false document or electronic record with intent to cause damage or injury, to support any claim, to cause any person to part with property, or with intent to commit fraud, commits forgery."
+    },
+    {
+      "section": "465",
+      "title": "Punishment for forgery",
+      "description": "Whoever commits forgery shall be punished with imprisonment up to two years, or with fine, or with both."
+    },
+    {
+      "section": "467",
+      "title": "Forgery of valuable security, will, etc.",
+      "description": "Whoever forges a document which purports to be a valuable security or will, or authority to adopt a son, or authority to transfer valuable security, shall be punished with imprisonment for life or imprisonment up to ten years and fine."
+    },
+    {
+      "section": "471",
+      "title": "Using as genuine a forged document or electronic record",
+      "description": "Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows to be forged shall be punished in the same manner as if he had forged such document."
+    },
+    {
+      "section": "493",
+      "title": "Cohabitation caused by man deceitfully inducing belief of lawful marriage",
+      "description": "Every man who by deceit causes any woman not lawfully married to him to believe she is lawfully married and to cohabit with him shall be punished with imprisonment up to ten years and fine."
+    },
+    {
+      "section": "494",
+      "title": "Marrying again during lifetime of husband or wife",
+      "description": "Whoever, having a husband or wife living, marries in any case in which such marriage is void, shall be punished with imprisonment up to seven years and fine."
+    },
+    {
+      "section": "497",
+      "title": "Adultery",
+      "description": "Whoever has sexual intercourse with a person who is the wife of another man, without consent or connivance of that man, is guilty of adultery and shall be punished with imprisonment up to five years, or with fine, or with both."
+    },
+    {
+      "section": "498A",
+      "title": "Husband or relative of husband subjecting woman to cruelty",
+      "description": "Whoever, being the husband or relative of husband, subjects a woman to cruelty shall be punished with imprisonment up to three years and fine. Cruelty means wilful conduct likely to drive woman to suicide or cause grave injury, or harassment for dowry demands."
+    },
+    {
+      "section": "499",
+      "title": "Defamation",
+      "description": "Whoever by words, signs or visible representations makes or publishes any imputation concerning any person intending to harm the reputation of such person is said to defame that person, except in cases covered by exceptions."
+    },
+    {
+      "section": "500",
+      "title": "Punishment for defamation",
+      "description": "Whoever defames another shall be punished with simple imprisonment up to two years, or with fine, or with both."
+    },
+    {
+      "section": "503",
+      "title": "Criminal intimidation",
+      "description": "Whoever threatens another with injury to person, reputation or property with intent to cause alarm or to cause that person to do any act or omit to do any act, commits criminal intimidation."
+    },
+    {
+      "section": "504",
+      "title": "Intentional insult with intent to provoke breach of peace",
+      "description": "Whoever intentionally insults and thereby gives provocation intending or knowing it likely to cause breach of public peace or commission of offence, shall be punished with imprisonment up to two years, or with fine, or with both."
+    },
+    {
+      "section": "505",
+      "title": "Statements conducing to public mischief",
+      "description": "Whoever makes, publishes or circulates any statement, rumour or report with intent to cause mutiny, alarm to public, or incite any class to commit offence against another class, shall be punished with imprisonment up to three years, or with fine, or with both."
+    },
+    {
+      "section": "506",
+      "title": "Punishment for criminal intimidation",
+      "description": "Whoever commits criminal intimidation shall be punished with imprisonment up to two years, or with fine, or with both; if threat is to cause death or grievous hurt, imprisonment may extend to seven years."
+    },
+    {
+      "section": "509",
+      "title": "Word, gesture or act intended to insult modesty of woman",
+      "description": "Whoever intending to insult the modesty of any woman, utters any word, makes any sound or gesture, exhibits any object, or intrudes upon privacy of woman, shall be punished with simple imprisonment up to three years and fine."
+    },
+    {
+      "section": "511",
+      "title": "Punishment for attempting to commit offences",
+      "description": "Whoever attempts to commit an offence punishable with imprisonment for life or imprisonment, and does any act towards commission of the offence, shall be punished with imprisonment up to one-half of the longest term provided for that offence, or with fine, or with both."
+    }
+  ]
+}
