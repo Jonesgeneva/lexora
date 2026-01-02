@@ -1,0 +1,1715 @@
+[
+  {
+    "case_id": "C160",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C102",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C198",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C180",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C028",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C020",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C018",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C135",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C159",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C022",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C073",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C069",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C150",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C047",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C007",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C036",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C097",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C052",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C093",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C059",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C024",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C066",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C094",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C124",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C181",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C077",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C118",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C141",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C084",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C032",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C019",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C136",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C127",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C023",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C096",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C035",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C161",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C113",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C188",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C046",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C192",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C170",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C006",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C083",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C115",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C039",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C157",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C038",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C144",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C105",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C174",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C050",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C060",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C166",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C167",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C098",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C193",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C152",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C189",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C106",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C101",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C031",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C065",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C184",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C164",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C068",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C051",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C025",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C169",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C074",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C149",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C034",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C086",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C125",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C010",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C040",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C179",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C088",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C055",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C087",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C017",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C041",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C195",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C061",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C130",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C138",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C008",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C070",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C142",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C003",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C147",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C176",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C016",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C162",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C119",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C122",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C175",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C171",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C134",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C056",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C140",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C009",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C053",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C183",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C132",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C186",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C191",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C044",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C021",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C123",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C196",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C100",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C081",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C075",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C026",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C146",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C187",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C082",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C158",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C148",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C015",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C112",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C156",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C143",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C042",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C177",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C114",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C126",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C131",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C116",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C109",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C027",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C103",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C092",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C076",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C089",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C062",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C079",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C153",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C033",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C029",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C048",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C121",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C071",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C012",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C045",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C005",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C110",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C072",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C085",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C078",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C111",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C001",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C095",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C139",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C004",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C067",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C178",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C064",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C057",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C199",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C128",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C165",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C099",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C090",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C133",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C107",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C054",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C129",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C030",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C137",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C014",
+    "facts": "Cyber forensic reports established the involvement of the accused in online fraud.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C080",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C155",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C194",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C182",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 419",
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C190",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C200",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C049",
+    "facts": "The accused created fake profiles and cheated multiple individuals through online transactions.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C037",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C058",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C013",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C108",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C151",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C104",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C172",
+    "facts": "Digital evidence presented was inconclusive and insufficient to prove guilt.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C197",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C145",
+    "facts": "Procedural lapses weakened the prosecution's case beyond reasonable doubt.",
+    "charges": [
+      "IT Act 66C"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C168",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C117",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C002",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C163",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C063",
+    "facts": "The accused fraudulently transferred money by impersonating the victim through online platforms.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C011",
+    "facts": "The accused impersonated a government official and deceived victims for financial gain.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C120",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C091",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C173",
+    "facts": "The prosecution failed to establish a direct link between the accused and the alleged offense.",
+    "charges": [
+      "IPC 420",
+      "IT Act 66D"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C043",
+    "facts": "Digital evidence confirmed unauthorized access to the victim's financial accounts.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "convicted"
+  },
+  {
+    "case_id": "C185",
+    "facts": "The accused was named in the complaint but no technical evidence supported the allegations.",
+    "charges": [
+      "IT Act 43",
+      "IPC 506"
+    ],
+    "outcome": "acquitted"
+  },
+  {
+    "case_id": "C154",
+    "facts": "Witnesses turned hostile and no corroborative evidence was produced.",
+    "charges": [
+      "IPC 420"
+    ],
+    "outcome": "acquitted"
+  }
+]

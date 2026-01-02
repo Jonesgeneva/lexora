@@ -1,0 +1,802 @@
+[
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts it act 66c",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations it act 66c",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain it act 66c",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 66c",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms it act 66c",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 66c",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "cyber forensic reports established the involvement of the accused in online fraud ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 419 ipc 420",
+    "label": 1
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 66c",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 419 ipc 420",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the accused created fake profiles and cheated multiple individuals through online transactions ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "digital evidence presented was inconclusive and insufficient to prove guilt ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "procedural lapses weakened the prosecution s case beyond reasonable doubt it act 66c",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420",
+    "label": 0
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain it act 43 ipc 506",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "the accused fraudulently transferred money by impersonating the victim through online platforms ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused impersonated a government official and deceived victims for financial gain ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420 it act 66d",
+    "label": 1
+  },
+  {
+    "text": "the prosecution failed to establish a direct link between the accused and the alleged offense ipc 420 it act 66d",
+    "label": 0
+  },
+  {
+    "text": "digital evidence confirmed unauthorized access to the victim s financial accounts ipc 420",
+    "label": 1
+  },
+  {
+    "text": "the accused was named in the complaint but no technical evidence supported the allegations it act 43 ipc 506",
+    "label": 0
+  },
+  {
+    "text": "witnesses turned hostile and no corroborative evidence was produced ipc 420",
+    "label": 0
+  }
+]
